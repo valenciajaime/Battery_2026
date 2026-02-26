@@ -9,6 +9,7 @@ It includes research notes, simulations, code examples, and industry application
 
 - Study lithium-ion and emerging battery chemistries
 - Analyze Battery Management Systems (BMS)
+- Explore reciclyng battery technology
 - Explore software tools used in battery manufacturing and monitoring
 - Develop small simulation tools or data analysis scripts
 
