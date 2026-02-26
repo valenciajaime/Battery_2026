@@ -2,7 +2,7 @@
 
 # Battery Technology & Industry Software Research
 
-This repository explores modern battery technologies and the software systems used in the battery and energy storage industry. 
+This repository will explores modern battery and energy storage technologies and the software systems used in the battery and energy storage industry. 
 It includes research notes, simulations, code examples, and industry application analysis.
 
 ## Objectives
